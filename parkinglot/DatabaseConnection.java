@@ -10,17 +10,17 @@ public class DatabaseConnection {
 
     private static Connection connection;
 
-    static {
-        try {
-            Class.forName("org.");
-
-          connection = DriverManager.getConnection();
-            System.out.println("Database connected su");
-
-        } catch () {
-
-        }
-    }
+//    static {
+//        try {
+//            Class.forName("org.");
+//
+//          connection = DriverManager.getConnection();
+//            System.out.println("Database connected su");
+//
+//        } catch () {
+//
+//        }
+//    }
 
     // random numbers
     // 99, 21, 43, 55, 61
