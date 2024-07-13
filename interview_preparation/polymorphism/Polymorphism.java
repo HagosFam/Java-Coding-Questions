@@ -11,7 +11,7 @@ public class Polymorphism {
         Polymorphism poly = new Polymorphism();
 
         poly.add(2, 4); // this is one demonstration of data types.
-        // it can also happen in sub class /  super class hierarichy.
+        // it can also happen in subclass /  super class hierarichy.
 
         poly.add(3, 4, 5); //
 
