@@ -18,7 +18,7 @@ public class ItratorDemo {
             System.out.println(stringIterator.next());
         }
 
-        // itrator
+        // iterator
 
 
 
